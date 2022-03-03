@@ -67,7 +67,7 @@ author:
       url: "https://www.facebook.com/groups/helderberg.swdev.entrep.meetups"
     - label: "ZATech Slack"
       icon: "fab fa-fw fa-slack-hash"
-      url: "https://zatech.co.za/"
+      url: "https://zatech.slack.com/app_redirect?channel=helderberg-devs"
 
 footer:
   links:
