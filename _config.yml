@@ -64,7 +64,7 @@ author:
   links:
     - label: "Meetup Events"
       icon: "fas fa-fw fa-calendar-alt"
-      url: "https://www.facebook.com/groups/helderberg.swdev.entrep.meetups"
+      url: "https://www.facebook.com/groups/helderberg.swdev.entrep.meetups/events"
     - label: "ZATech Slack"
       icon: "fab fa-fw fa-slack-hash"
       url: "https://zatech.slack.com/app_redirect?channel=helderberg-devs"
