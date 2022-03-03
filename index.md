@@ -12,6 +12,6 @@ Calling all software developers, web designers, consultants and IT-business owne
 
 Meetups are *usually* held on the first Tuesday of each month, but check our [Facebook page](https://www.facebook.com/groups/helderberg.swdev.entrep.meetups) for scheduled meetups.
 
-Feel free to join our discussion channel, `#helderberg-devs` on [ZATech Slack](https://zatech.co.za/).
+Feel free to join our discussion channel, [`#helderberg-devs` on ZATech Slack](https://zatech.slack.com/app_redirect?channel=helderberg-devs).
 
 Contact us through either the Facebook page or Slack channel.
